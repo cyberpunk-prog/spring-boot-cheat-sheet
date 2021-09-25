@@ -25,7 +25,7 @@ e)@RequestParam annotation is used to read the request parameters from the Reque
     required=false, defaultValue="honey") String name) { 
     }
     
- 3.** Method and API**
+ 3.**Method and API**
  
   a) GET API: 
   b) POST:
